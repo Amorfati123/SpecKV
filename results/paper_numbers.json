@@ -1,0 +1,57 @@
+{
+  "dataset": {
+    "total_step_records": 5112,
+    "train_records": 4089,
+    "test_records": 1023,
+    "compressions": [
+      "fp16",
+      "int8",
+      "nf4"
+    ],
+    "gamma_values": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "tasks": [
+      "code",
+      "math",
+      "chat",
+      "summarization"
+    ]
+  },
+  "predictor": {
+    "fast_model": "MLP-16",
+    "fast_test_corr": 0.6853,
+    "fast_test_mse": 0.0896,
+    "fast_overhead_ms": 0.336,
+    "reference_model": "RF-100",
+    "reference_corr": 0.8345,
+    "reference_overhead_ms": 21.359
+  },
+  "results": {
+    "overall_fixed4": 3.73,
+    "overall_speckv_fast": 5.82,
+    "overall_improvement_pct": 56.0,
+    "overhead_pct": 0.5
+  },
+  "statistical_test": {
+    "test": "paired_bootstrap",
+    "p_value": 0.0,
+    "mean_diff": 2.091
+  },
+  "feature_importance": {
+    "min_draft_confidence": 0.3,
+    "max_draft_entropy": 0.241,
+    "mean_draft_confidence": 0.218,
+    "mean_draft_entropy": 0.177,
+    "gamma": 0.034,
+    "compression": 0.031
+  },
+  "hardware": {
+    "gpu": "NVIDIA RTX 3090 24GB",
+    "draft_model": "meta-llama/Llama-3.2-1B-Instruct",
+    "target_model": "meta-llama/Llama-3.2-3B-Instruct"
+  }
+}

@@ -1,0 +1,13 @@
+compression,task,Fixed-4,SpecKV,improvement_pct
+fp16,code,3.95,6.32,60.0
+fp16,math,4.17,6.74,61.7
+fp16,chat,3.2,4.71,47.1
+fp16,summarization,3.48,5.25,50.9
+int8,code,3.99,6.36,59.4
+int8,math,4.29,7.05,64.5
+int8,chat,3.19,4.68,46.7
+int8,summarization,3.68,5.66,54.0
+nf4,code,4.02,6.47,60.9
+nf4,math,4.22,6.95,64.6
+nf4,chat,3.33,4.95,48.5
+nf4,summarization,3.67,5.62,53.3

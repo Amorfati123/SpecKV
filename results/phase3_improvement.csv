@@ -1,0 +1,13 @@
+compression,task,improvement_pct
+fp16,code,71.5
+fp16,math,69.1
+fp16,chat,51.7
+fp16,summarization,62.7
+int8,code,72.0
+int8,math,65.7
+int8,chat,53.9
+int8,summarization,67.0
+nf4,code,69.1
+nf4,math,69.0
+nf4,chat,53.7
+nf4,summarization,61.8

@@ -1,0 +1,13 @@
+compression,task,optimal_gamma,best_tps
+fp16,code,2,64.7
+fp16,math,4,69.2
+fp16,chat,2,61.5
+fp16,summarization,2,63.3
+int8,code,8,33.0
+int8,math,8,38.6
+int8,chat,6,25.7
+int8,summarization,6,29.6
+nf4,code,4,48.9
+nf4,math,6,57.7
+nf4,chat,4,43.1
+nf4,summarization,4,47.5

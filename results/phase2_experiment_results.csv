@@ -1,0 +1,241 @@
+compression,gamma,task,prompt,num_tokens,elapsed_sec,tokens_per_sec,mean_acceptance_rate,mean_draft_entropy,mean_draft_confidence,num_steps
+fp16,2,code,Write a Python function that implements binary search on a sorted list.,81,1.317,61.5,0.7812,0.864,0.8182,32
+fp16,2,code,"Write a Python class for a linked list with insert, delete, and search methods.",80,1.144,69.9,0.9286,0.5806,0.8883,28
+fp16,2,code,Implement quicksort in Python with detailed comments.,81,1.216,66.6,0.8667,0.5094,0.8843,30
+fp16,2,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,80,1.235,64.8,0.8333,0.558,0.882,30
+fp16,2,code,Create a Python decorator that caches function results with a TTL expiry.,81,1.33,60.9,0.7424,1.1206,0.8107,33
+fp16,2,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.224,66.2,0.85,0.5522,0.8706,30
+fp16,2,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,1.187,68.2,0.9138,0.4297,0.9006,29
+fp16,2,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,80,1.15,69.6,0.9286,0.3592,0.9222,28
+fp16,2,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.114,72.7,1.0,0.4124,0.9053,27
+fp16,2,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.266,64.0,0.8065,1.1332,0.7653,31
+fp16,2,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.211,66.9,0.8667,1.3746,0.7361,30
+fp16,2,chat,Explain quantum computing to a 10-year-old.,81,1.383,58.6,0.7059,1.3782,0.7421,34
+fp16,2,chat,What are some healthy meal prep ideas for a busy week?,80,1.193,67.1,0.8793,0.8744,0.8234,29
+fp16,2,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,80,1.464,54.6,0.6111,2.2815,0.6176,36
+fp16,2,chat,What's the difference between machine learning and deep learning?,80,1.332,60.1,0.7121,1.5508,0.6863,33
+fp16,2,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,1.424,56.9,0.6714,1.0623,0.7962,35
+fp16,2,summarization,Explain the main events of World War II in a concise paragraph.,81,1.185,68.4,0.8966,0.8437,0.8358,29
+fp16,2,summarization,Summarize how the internet works in simple terms.,80,1.265,63.2,0.7903,1.5129,0.7119,31
+fp16,2,summarization,Give a brief overview of the history of artificial intelligence.,80,1.23,65.0,0.8333,1.2248,0.7685,30
+fp16,2,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,80,1.269,63.0,0.7903,1.0776,0.8039,31
+fp16,4,code,Write a Python function that implements binary search on a sorted list.,81,1.389,58.3,0.6705,0.9374,0.7929,22
+fp16,4,code,"Write a Python class for a linked list with insert, delete, and search methods.",80,1.14,70.2,0.8611,0.5858,0.8909,18
+fp16,4,code,Implement quicksort in Python with detailed comments.,81,1.26,64.3,0.7625,0.4812,0.8877,20
+fp16,4,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,80,1.333,60.0,0.7024,0.5593,0.8799,21
+fp16,4,code,Create a Python decorator that caches function results with a TTL expiry.,81,1.38,58.7,0.6818,1.1684,0.8025,22
+fp16,4,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.196,67.7,0.8158,0.4522,0.8945,19
+fp16,4,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,1.185,68.3,0.8421,0.383,0.908,19
+fp16,4,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,80,1.127,71.0,0.8704,0.4149,0.9003,18
+fp16,4,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",80,1.012,79.1,1.0,0.383,0.9131,16
+fp16,4,math,Solve: The sum of three consecutive integers is 72. What are they?,80,1.33,60.1,0.7024,1.0612,0.7686,21
+fp16,4,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.284,63.1,0.75,1.304,0.7466,21
+fp16,4,chat,Explain quantum computing to a 10-year-old.,81,1.655,48.9,0.5309,1.4813,0.7105,27
+fp16,4,chat,What are some healthy meal prep ideas for a busy week?,80,1.185,67.5,0.8114,0.9716,0.8014,19
+fp16,4,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,1.68,48.2,0.5093,2.1579,0.6356,27
+fp16,4,chat,What's the difference between machine learning and deep learning?,80,1.412,56.7,0.6232,1.5162,0.6895,23
+fp16,4,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,1.62,50.0,0.5481,1.1353,0.7873,26
+fp16,4,summarization,Explain the main events of World War II in a concise paragraph.,81,1.139,71.1,0.875,0.7948,0.845,18
+fp16,4,summarization,Summarize how the internet works in simple terms.,81,1.5,54.0,0.6042,1.7675,0.6699,24
+fp16,4,summarization,Give a brief overview of the history of artificial intelligence.,80,1.322,60.5,0.7024,1.3184,0.7411,21
+fp16,4,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,80,1.306,61.3,0.7143,0.9498,0.8275,21
+fp16,6,code,Write a Python function that implements binary search on a sorted list.,81,1.502,53.9,0.6019,0.8621,0.8077,18
+fp16,6,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.182,68.5,0.8095,0.6663,0.8697,14
+fp16,6,code,Implement quicksort in Python with detailed comments.,81,1.355,59.8,0.6875,0.5035,0.8776,16
+fp16,6,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,1.407,57.6,0.6667,0.5396,0.8857,17
+fp16,6,code,Create a Python decorator that caches function results with a TTL expiry.,81,1.533,52.8,0.5833,1.1879,0.7971,18
+fp16,6,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.321,61.3,0.7292,0.4694,0.8942,16
+fp16,6,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,80,1.21,66.1,0.7857,0.3884,0.9086,14
+fp16,6,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,80,1.163,68.8,0.8095,0.4059,0.8964,14
+fp16,6,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,0.998,81.2,1.0,0.3262,0.9243,12
+fp16,6,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.36,59.6,0.6875,1.1254,0.7652,16
+fp16,6,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.393,58.2,0.6765,1.3144,0.7409,17
+fp16,6,chat,Explain quantum computing to a 10-year-old.,81,2.042,39.7,0.4147,1.6007,0.6917,25
+fp16,6,chat,What are some healthy meal prep ideas for a busy week?,80,1.225,65.3,0.7222,0.9418,0.8036,15
+fp16,6,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,2.121,38.2,0.38,2.1526,0.6399,25
+fp16,6,chat,What's the difference between machine learning and deep learning?,80,1.57,50.9,0.5351,1.4431,0.701,19
+fp16,6,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,80,1.628,49.1,0.5351,1.0674,0.8064,19
+fp16,6,summarization,Explain the main events of World War II in a concise paragraph.,80,1.193,67.1,0.7857,0.8464,0.834,14
+fp16,6,summarization,Summarize how the internet works in simple terms.,81,1.759,46.1,0.5,1.6327,0.6899,21
+fp16,6,summarization,Give a brief overview of the history of artificial intelligence.,81,1.393,58.1,0.6765,1.2564,0.7608,17
+fp16,6,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,80,1.492,53.6,0.5963,1.0689,0.7972,18
+fp16,8,code,Write a Python function that implements binary search on a sorted list.,81,1.64,49.4,0.5391,0.8402,0.8148,16
+fp16,8,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.235,65.6,0.7708,0.7007,0.8677,12
+fp16,8,code,Implement quicksort in Python with detailed comments.,81,1.422,57.0,0.6607,0.4682,0.8884,14
+fp16,8,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,1.452,55.8,0.6429,0.5115,0.8946,14
+fp16,8,code,Create a Python decorator that caches function results with a TTL expiry.,81,1.888,42.9,0.4583,1.062,0.7859,18
+fp16,8,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.448,55.9,0.6518,0.5106,0.8749,14
+fp16,8,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,1.294,62.6,0.7292,0.4268,0.8995,12
+fp16,8,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,80,1.217,65.8,0.75,0.4257,0.8937,12
+fp16,8,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,0.973,83.2,1.0,0.324,0.9264,9
+fp16,8,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.471,55.1,0.6263,1.1232,0.76,14
+fp16,8,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.578,51.3,0.5755,1.2927,0.7397,16
+fp16,8,chat,Explain quantum computing to a 10-year-old.,81,2.399,33.8,0.3451,1.6731,0.6746,24
+fp16,8,chat,What are some healthy meal prep ideas for a busy week?,80,1.272,62.9,0.7173,0.8485,0.8233,12
+fp16,8,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,2.536,31.9,0.3073,2.031,0.6549,24
+fp16,8,chat,What's the difference between machine learning and deep learning?,80,1.742,45.9,0.4632,1.4138,0.7037,17
+fp16,8,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,1.931,41.9,0.4444,1.0395,0.8062,18
+fp16,8,summarization,Explain the main events of World War II in a concise paragraph.,81,1.253,64.6,0.75,0.8073,0.8428,12
+fp16,8,summarization,Summarize how the internet works in simple terms.,81,1.746,46.4,0.5123,1.6024,0.6944,17
+fp16,8,summarization,Give a brief overview of the history of artificial intelligence.,81,1.587,51.0,0.5667,1.258,0.7562,15
+fp16,8,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,80,1.608,49.7,0.5328,1.0751,0.7946,16
+int8,2,code,Write a Python function that implements binary search on a sorted list.,80,3.193,25.1,0.8793,1.192,0.7563,29
+int8,2,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,3.354,24.2,0.8226,0.8866,0.8334,31
+int8,2,code,Implement quicksort in Python with detailed comments.,81,3.244,25.0,0.8667,0.5094,0.8843,30
+int8,2,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,3.312,24.5,0.8667,0.517,0.8872,30
+int8,2,code,Create a Python decorator that caches function results with a TTL expiry.,80,3.515,22.8,0.75,1.2194,0.7872,32
+int8,2,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,3.349,24.2,0.85,0.5522,0.8706,30
+int8,2,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,3.213,25.2,0.9138,0.4297,0.9006,29
+int8,2,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,3.293,24.6,0.8667,0.4028,0.9043,30
+int8,2,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,3.006,26.9,1.0,0.4124,0.9053,27
+int8,2,math,Solve: The sum of three consecutive integers is 72. What are they?,80,3.344,23.9,0.8333,0.6838,0.8273,30
+int8,2,chat,What are the pros and cons of remote work? Give a balanced view.,81,3.307,24.5,0.8667,1.1823,0.7741,30
+int8,2,chat,Explain quantum computing to a 10-year-old.,80,3.44,23.3,0.7903,1.4656,0.7278,31
+int8,2,chat,What are some healthy meal prep ideas for a busy week?,81,3.224,25.1,0.8966,0.8057,0.8421,29
+int8,2,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,3.819,21.2,0.7059,1.9063,0.6805,34
+int8,2,chat,What's the difference between machine learning and deep learning?,81,3.964,20.4,0.6571,1.6161,0.6856,35
+int8,2,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,80,3.855,20.8,0.6765,1.2325,0.7677,34
+int8,2,summarization,Explain the main events of World War II in a concise paragraph.,81,3.284,24.7,0.8966,0.8437,0.8358,29
+int8,2,summarization,Summarize how the internet works in simple terms.,81,3.806,21.3,0.7059,1.5871,0.705,34
+int8,2,summarization,Give a brief overview of the history of artificial intelligence.,80,3.356,23.8,0.8333,1.2248,0.7685,30
+int8,2,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,3.57,22.7,0.7812,1.0563,0.8094,32
+int8,4,code,Write a Python function that implements binary search on a sorted list.,81,2.675,30.3,0.7625,1.2446,0.7471,20
+int8,4,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,2.601,31.1,0.775,0.9694,0.818,20
+int8,4,code,Implement quicksort in Python with detailed comments.,81,2.61,31.0,0.7625,0.4812,0.8877,20
+int8,4,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,80,2.796,28.6,0.7024,0.5593,0.8799,21
+int8,4,code,Create a Python decorator that caches function results with a TTL expiry.,81,3.173,25.5,0.5938,1.2049,0.7874,24
+int8,4,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,2.546,31.8,0.8158,0.4522,0.8945,19
+int8,4,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,2.638,30.7,0.8,0.33,0.926,20
+int8,4,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,2.535,31.9,0.8158,0.3658,0.9144,19
+int8,4,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",80,2.137,37.4,1.0,0.383,0.9131,16
+int8,4,math,Solve: The sum of three consecutive integers is 72. What are they?,81,2.675,30.3,0.775,0.977,0.7893,20
+int8,4,chat,What are the pros and cons of remote work? Give a balanced view.,81,2.779,29.1,0.7262,1.1401,0.7683,21
+int8,4,chat,Explain quantum computing to a 10-year-old.,81,3.574,22.7,0.5309,1.4813,0.7105,27
+int8,4,chat,What are some healthy meal prep ideas for a busy week?,81,3.034,26.7,0.663,1.0254,0.7923,23
+int8,4,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,3.987,20.3,0.45,2.2007,0.6208,30
+int8,4,chat,What's the difference between machine learning and deep learning?,80,3.604,22.2,0.4969,1.5518,0.6922,27
+int8,4,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,80,3.182,25.1,0.5903,1.0512,0.804,24
+int8,4,summarization,Explain the main events of World War II in a concise paragraph.,81,2.398,33.8,0.875,0.7948,0.845,18
+int8,4,summarization,Summarize how the internet works in simple terms.,81,3.306,24.5,0.58,1.6741,0.6801,25
+int8,4,summarization,Give a brief overview of the history of artificial intelligence.,80,2.794,28.6,0.7024,1.3184,0.7411,21
+int8,4,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,2.899,27.9,0.7045,1.0065,0.8202,22
+int8,6,code,Write a Python function that implements binary search on a sorted list.,80,2.46,32.5,0.6667,1.1436,0.7639,16
+int8,6,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,2.518,32.2,0.6667,0.9645,0.8138,17
+int8,6,code,Implement quicksort in Python with detailed comments.,81,2.401,33.7,0.6875,0.5035,0.8776,16
+int8,6,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,2.564,31.6,0.6667,0.5396,0.8857,17
+int8,6,code,Create a Python decorator that caches function results with a TTL expiry.,80,2.441,32.8,0.6667,1.1039,0.8089,16
+int8,6,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,2.421,33.5,0.7292,0.4694,0.8942,16
+int8,6,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,80,2.164,37.0,0.7857,0.3884,0.9086,14
+int8,6,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,2.301,35.2,0.7333,0.317,0.9232,15
+int8,6,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.825,44.4,1.0,0.3262,0.9243,12
+int8,6,math,Solve: The sum of three consecutive integers is 72. What are they?,81,2.299,35.2,0.7667,0.9439,0.8034,15
+int8,6,chat,What are the pros and cons of remote work? Give a balanced view.,81,2.409,33.6,0.7188,1.26,0.7487,16
+int8,6,chat,Explain quantum computing to a 10-year-old.,81,3.78,21.4,0.4147,1.6007,0.6917,25
+int8,6,chat,What are some healthy meal prep ideas for a busy week?,81,3.214,25.2,0.4921,1.0023,0.7931,21
+int8,6,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,3.694,21.9,0.4028,2.1613,0.6397,24
+int8,6,chat,What's the difference between machine learning and deep learning?,81,3.073,26.4,0.525,1.624,0.6802,20
+int8,6,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,3.231,25.1,0.4841,1.0248,0.7924,21
+int8,6,summarization,Explain the main events of World War II in a concise paragraph.,80,2.162,37.0,0.7857,0.8464,0.834,14
+int8,6,summarization,Summarize how the internet works in simple terms.,80,3.253,24.6,0.4683,1.6065,0.6941,21
+int8,6,summarization,Give a brief overview of the history of artificial intelligence.,81,2.574,31.5,0.6765,1.2564,0.7608,17
+int8,6,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,2.718,29.8,0.6352,1.0099,0.8149,18
+int8,8,code,Write a Python function that implements binary search on a sorted list.,81,2.193,36.9,0.7385,0.6973,0.8484,13
+int8,8,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,2.413,33.6,0.6071,0.968,0.811,14
+int8,8,code,Implement quicksort in Python with detailed comments.,81,2.361,34.3,0.6607,0.4682,0.8884,14
+int8,8,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,2.261,35.8,0.6923,0.5094,0.8904,13
+int8,8,code,Create a Python decorator that caches function results with a TTL expiry.,81,3.293,24.6,0.4408,1.161,0.796,19
+int8,8,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,2.443,33.2,0.6518,0.5106,0.8749,14
+int8,8,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,2.48,32.7,0.6161,0.3283,0.9235,14
+int8,8,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,2.284,35.5,0.6635,0.3343,0.9173,13
+int8,8,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.608,50.4,1.0,0.324,0.9264,9
+int8,8,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.96,41.3,0.7955,0.9439,0.8069,11
+int8,8,chat,What are the pros and cons of remote work? Give a balanced view.,81,2.566,31.6,0.6083,1.3123,0.7332,15
+int8,8,chat,Explain quantum computing to a 10-year-old.,80,3.604,22.2,0.3631,1.5961,0.7046,21
+int8,8,chat,What are some healthy meal prep ideas for a busy week?,81,3.3,24.5,0.4474,0.9394,0.802,19
+int8,8,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,4.206,19.3,0.3125,1.9682,0.6651,24
+int8,8,chat,What's the difference between machine learning and deep learning?,80,2.996,26.7,0.4632,1.5719,0.6912,17
+int8,8,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,3.311,24.5,0.4276,1.0281,0.7878,19
+int8,8,summarization,Explain the main events of World War II in a concise paragraph.,81,2.086,38.8,0.75,0.8073,0.8428,12
+int8,8,summarization,Summarize how the internet works in simple terms.,81,3.347,24.2,0.4145,1.562,0.6968,19
+int8,8,summarization,Give a brief overview of the history of artificial intelligence.,81,2.618,30.9,0.5667,1.258,0.7562,15
+int8,8,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,2.763,29.3,0.5391,0.9988,0.814,16
+nf4,2,code,Write a Python function that implements binary search on a sorted list.,81,1.753,46.2,0.7656,1.1528,0.7564,32
+nf4,2,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.586,51.1,0.8966,0.6105,0.881,29
+nf4,2,code,Implement quicksort in Python with detailed comments.,81,1.756,46.1,0.8065,0.5501,0.8761,31
+nf4,2,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,80,1.737,46.1,0.8333,0.5712,0.8695,30
+nf4,2,code,Create a Python decorator that caches function results with a TTL expiry.,80,1.954,41.0,0.6765,1.1669,0.7993,34
+nf4,2,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.726,46.9,0.8667,0.4391,0.9038,30
+nf4,2,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,80,1.634,49.0,0.9286,0.3708,0.9203,28
+nf4,2,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,1.721,47.1,0.8667,0.3798,0.9102,30
+nf4,2,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.565,51.8,1.0,0.4124,0.9053,27
+nf4,2,math,Solve: The sum of three consecutive integers is 72. What are they?,80,1.673,47.8,0.8793,0.6313,0.8424,29
+nf4,2,chat,What are the pros and cons of remote work? Give a balanced view.,80,1.782,44.9,0.7903,1.217,0.7551,31
+nf4,2,chat,Explain quantum computing to a 10-year-old.,80,1.896,42.2,0.7121,1.694,0.6755,33
+nf4,2,chat,What are some healthy meal prep ideas for a busy week?,81,1.729,46.8,0.85,0.8982,0.82,30
+nf4,2,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,80,2.138,37.4,0.5811,1.9742,0.6595,37
+nf4,2,chat,What's the difference between machine learning and deep learning?,80,1.904,42.0,0.7121,1.0715,0.7824,33
+nf4,2,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,1.909,42.4,0.7273,1.254,0.756,33
+nf4,2,summarization,Explain the main events of World War II in a concise paragraph.,81,1.722,47.0,0.8667,0.8608,0.8327,30
+nf4,2,summarization,Summarize how the internet works in simple terms.,80,1.908,41.9,0.7121,1.5968,0.7077,33
+nf4,2,summarization,Give a brief overview of the history of artificial intelligence.,80,1.73,46.3,0.8333,1.1755,0.7757,30
+nf4,2,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,1.727,46.9,0.8667,0.972,0.8255,30
+nf4,4,code,Write a Python function that implements binary search on a sorted list.,81,1.884,43.0,0.625,1.1817,0.7519,24
+nf4,4,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.48,54.7,0.8553,0.6421,0.8755,19
+nf4,4,code,Implement quicksort in Python with detailed comments.,80,1.587,50.4,0.75,0.5553,0.875,20
+nf4,4,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,1.527,53.1,0.8158,0.6302,0.8557,19
+nf4,4,code,Create a Python decorator that caches function results with a TTL expiry.,81,1.874,43.2,0.625,1.1736,0.7976,24
+nf4,4,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.441,56.2,0.875,0.3199,0.9296,18
+nf4,4,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,1.582,51.2,0.8,0.3245,0.9266,20
+nf4,4,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,1.52,53.3,0.8158,0.3605,0.9158,19
+nf4,4,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",80,1.284,62.3,1.0,0.383,0.9131,16
+nf4,4,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.437,56.4,0.875,0.7071,0.8248,18
+nf4,4,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.789,45.3,0.663,1.1822,0.7666,23
+nf4,4,chat,Explain quantum computing to a 10-year-old.,81,1.861,43.5,0.625,1.4774,0.7199,24
+nf4,4,chat,What are some healthy meal prep ideas for a busy week?,81,1.732,46.8,0.6818,1.0966,0.7772,22
+nf4,4,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,2.301,35.2,0.4569,1.8133,0.6802,29
+nf4,4,chat,What's the difference between machine learning and deep learning?,81,1.815,44.6,0.6413,1.0484,0.7826,23
+nf4,4,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,80,1.826,43.8,0.6196,1.0497,0.7937,23
+nf4,4,summarization,Explain the main events of World War II in a concise paragraph.,81,1.497,54.1,0.8289,0.83,0.839,19
+nf4,4,summarization,Summarize how the internet works in simple terms.,81,1.971,41.1,0.57,1.7421,0.6814,25
+nf4,4,summarization,Give a brief overview of the history of artificial intelligence.,81,1.633,49.6,0.75,1.2333,0.7597,21
+nf4,4,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,1.656,48.9,0.7381,1.0784,0.8123,21
+nf4,6,code,Write a Python function that implements binary search on a sorted list.,81,1.814,44.6,0.6019,1.1974,0.7483,18
+nf4,6,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.371,59.1,0.8571,0.658,0.8708,14
+nf4,6,code,Implement quicksort in Python with detailed comments.,81,1.719,47.1,0.6275,0.6472,0.8574,17
+nf4,6,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,1.494,54.2,0.7667,0.5637,0.8766,15
+nf4,6,code,Create a Python decorator that caches function results with a TTL expiry.,80,2.105,38.0,0.4683,1.3135,0.7674,21
+nf4,6,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.514,53.5,0.7444,0.3515,0.9224,15
+nf4,6,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,80,1.545,51.8,0.7222,0.3317,0.9245,15
+nf4,6,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,80,1.418,56.4,0.7857,0.3359,0.9181,14
+nf4,6,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.193,67.9,1.0,0.3262,0.9243,12
+nf4,6,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.379,58.7,0.8333,0.6747,0.8358,14
+nf4,6,chat,What are the pros and cons of remote work? Give a balanced view.,81,1.857,43.6,0.5877,1.3083,0.7435,19
+nf4,6,chat,Explain quantum computing to a 10-year-old.,81,2.214,36.6,0.447,1.7199,0.6716,22
+nf4,6,chat,What are some healthy meal prep ideas for a busy week?,81,1.764,45.9,0.6296,1.0152,0.7885,18
+nf4,6,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,2.599,31.2,0.3718,1.7442,0.6937,26
+nf4,6,chat,What's the difference between machine learning and deep learning?,81,1.78,45.5,0.6111,0.9393,0.8034,18
+nf4,6,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,2.013,40.2,0.5167,1.0663,0.7864,20
+nf4,6,summarization,Explain the main events of World War II in a concise paragraph.,81,1.51,53.6,0.7333,0.8234,0.8398,15
+nf4,6,summarization,Summarize how the internet works in simple terms.,81,2.291,35.4,0.4435,1.6039,0.7035,23
+nf4,6,summarization,Give a brief overview of the history of artificial intelligence.,80,1.704,47.0,0.6176,1.2823,0.7529,17
+nf4,6,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,80,1.731,46.2,0.6176,1.086,0.8096,17
+nf4,8,code,Write a Python function that implements binary search on a sorted list.,81,2.034,39.8,0.5147,1.0304,0.7834,17
+nf4,8,code,"Write a Python class for a linked list with insert, delete, and search methods.",81,1.353,59.9,0.7955,0.7552,0.8565,11
+nf4,8,code,Implement quicksort in Python with detailed comments.,81,1.775,45.6,0.6,0.6872,0.8523,15
+nf4,8,code,Write a Python function to find all prime numbers up to n using the Sieve of Era,81,1.592,50.9,0.6731,0.5347,0.8821,13
+nf4,8,code,Create a Python decorator that caches function results with a TTL expiry.,81,2.393,33.8,0.4125,1.1486,0.7915,20
+nf4,8,math,"Solve step by step: If 3x + 7 = 22, what is x?",81,1.532,52.9,0.7212,0.358,0.9175,13
+nf4,8,math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,81,1.699,47.7,0.6429,0.3259,0.9237,14
+nf4,8,math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,81,1.552,52.2,0.6923,0.3262,0.9192,13
+nf4,8,math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",81,1.106,73.3,1.0,0.324,0.9264,9
+nf4,8,math,Solve: The sum of three consecutive integers is 72. What are they?,81,1.336,60.6,0.8182,0.7309,0.8241,11
+nf4,8,chat,What are the pros and cons of remote work? Give a balanced view.,80,2.073,38.6,0.4632,1.3121,0.7416,17
+nf4,8,chat,Explain quantum computing to a 10-year-old.,81,2.552,31.7,0.369,1.6454,0.6782,21
+nf4,8,chat,What are some healthy meal prep ideas for a busy week?,81,1.85,43.8,0.55,0.9133,0.8127,15
+nf4,8,chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,81,3.02,26.8,0.3071,1.737,0.6872,25
+nf4,8,chat,What's the difference between machine learning and deep learning?,81,1.899,42.7,0.5502,0.9059,0.8107,16
+nf4,8,summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,81,2.17,37.3,0.4583,1.0957,0.7781,18
+nf4,8,summarization,Explain the main events of World War II in a concise paragraph.,81,1.435,56.5,0.7604,0.8165,0.8404,12
+nf4,8,summarization,Summarize how the internet works in simple terms.,81,2.301,35.2,0.4408,1.5457,0.7111,19
+nf4,8,summarization,Give a brief overview of the history of artificial intelligence.,81,1.906,42.5,0.5469,1.2449,0.7563,16
+nf4,8,summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,81,1.848,43.8,0.5583,1.084,0.8055,15
