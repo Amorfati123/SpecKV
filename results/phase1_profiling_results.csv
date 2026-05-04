@@ -1,0 +1,101 @@
+task,prompt,gamma,num_tokens,elapsed_sec,tokens_per_sec
+code,Write a Python function that implements binary search on a sorted list.,2,200,1.825,109.6
+code,"Write a Python class for a linked list with insert, delete, and search methods.",2,200,1.605,124.6
+code,Implement quicksort in Python with detailed comments.,2,200,1.646,121.5
+code,Write a Python function to find all prime numbers up to n using the Sieve of Era,2,200,1.787,111.9
+code,Create a Python decorator that caches function results with a TTL expiry.,2,200,1.808,110.6
+math,"Solve step by step: If 3x + 7 = 22, what is x?",2,187,1.6,116.9
+math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,2,158,1.293,122.2
+math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,2,200,1.603,124.8
+math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",2,200,1.621,123.4
+math,Solve: The sum of three consecutive integers is 72. What are they?,2,200,1.738,115.0
+chat,What are the pros and cons of remote work? Give a balanced view.,2,200,1.716,116.6
+chat,Explain quantum computing to a 10-year-old.,2,200,1.95,102.6
+chat,What are some healthy meal prep ideas for a busy week?,2,200,1.717,116.5
+chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,2,200,2.018,99.1
+chat,What's the difference between machine learning and deep learning?,2,200,1.9,105.2
+summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,2,200,1.811,110.5
+summarization,Explain the main events of World War II in a concise paragraph.,2,200,1.716,116.6
+summarization,Summarize how the internet works in simple terms.,2,200,1.81,110.5
+summarization,Give a brief overview of the history of artificial intelligence.,2,200,1.74,114.9
+summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,2,91,0.864,105.4
+code,Write a Python function that implements binary search on a sorted list.,4,200,1.828,109.4
+code,"Write a Python class for a linked list with insert, delete, and search methods.",4,200,1.466,136.4
+code,Implement quicksort in Python with detailed comments.,4,200,1.566,127.7
+code,Write a Python function to find all prime numbers up to n using the Sieve of Era,4,200,1.744,114.7
+code,Create a Python decorator that caches function results with a TTL expiry.,4,200,1.813,110.3
+math,"Solve step by step: If 3x + 7 = 22, what is x?",4,187,1.445,129.4
+math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,4,158,1.241,127.3
+math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,4,200,1.529,130.8
+math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",4,200,1.465,136.5
+math,Solve: The sum of three consecutive integers is 72. What are they?,4,200,1.737,115.1
+chat,What are the pros and cons of remote work? Give a balanced view.,4,200,1.667,120.0
+chat,Explain quantum computing to a 10-year-old.,4,200,2.145,93.2
+chat,What are some healthy meal prep ideas for a busy week?,4,200,1.672,119.6
+chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,4,200,2.083,96.0
+chat,What's the difference between machine learning and deep learning?,4,200,2.076,96.3
+summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,4,200,1.878,106.5
+summarization,Explain the main events of World War II in a concise paragraph.,4,200,1.688,118.5
+summarization,Summarize how the internet works in simple terms.,4,200,2.024,98.8
+summarization,Give a brief overview of the history of artificial intelligence.,4,200,1.651,121.1
+summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,4,91,0.847,107.5
+code,Write a Python function that implements binary search on a sorted list.,6,200,1.891,105.7
+code,"Write a Python class for a linked list with insert, delete, and search methods.",6,200,1.406,142.3
+code,Implement quicksort in Python with detailed comments.,6,200,1.536,130.2
+code,Write a Python function to find all prime numbers up to n using the Sieve of Era,6,200,1.851,108.0
+code,Create a Python decorator that caches function results with a TTL expiry.,6,200,1.808,110.7
+math,"Solve step by step: If 3x + 7 = 22, what is x?",6,187,1.492,125.3
+math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,6,158,1.263,125.1
+math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,6,200,1.494,133.9
+math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",6,200,1.428,140.0
+math,Solve: The sum of three consecutive integers is 72. What are they?,6,200,1.677,119.3
+chat,What are the pros and cons of remote work? Give a balanced view.,6,200,1.739,115.0
+chat,Explain quantum computing to a 10-year-old.,6,200,2.411,83.0
+chat,What are some healthy meal prep ideas for a busy week?,6,200,1.741,114.8
+chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,6,200,2.401,83.3
+chat,What's the difference between machine learning and deep learning?,6,200,2.257,88.6
+summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,6,200,1.944,102.9
+summarization,Explain the main events of World War II in a concise paragraph.,6,200,1.721,116.2
+summarization,Summarize how the internet works in simple terms.,6,200,2.225,89.9
+summarization,Give a brief overview of the history of artificial intelligence.,6,200,1.698,117.8
+summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,6,91,0.992,91.7
+code,Write a Python function that implements binary search on a sorted list.,8,200,2.043,97.9
+code,"Write a Python class for a linked list with insert, delete, and search methods.",8,200,1.434,139.5
+code,Implement quicksort in Python with detailed comments.,8,200,1.594,125.5
+code,Write a Python function to find all prime numbers up to n using the Sieve of Era,8,200,2.008,99.6
+code,Create a Python decorator that caches function results with a TTL expiry.,8,200,2.064,96.9
+math,"Solve step by step: If 3x + 7 = 22, what is x?",8,187,1.587,117.8
+math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,8,158,1.363,115.9
+math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,8,200,1.54,129.9
+math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",8,200,1.426,140.2
+math,Solve: The sum of three consecutive integers is 72. What are they?,8,200,1.679,119.1
+chat,What are the pros and cons of remote work? Give a balanced view.,8,200,1.99,100.5
+chat,Explain quantum computing to a 10-year-old.,8,200,2.863,69.9
+chat,What are some healthy meal prep ideas for a busy week?,8,200,1.889,105.9
+chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,8,200,2.692,74.3
+chat,What's the difference between machine learning and deep learning?,8,200,2.753,72.6
+summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,8,200,2.115,94.6
+summarization,Explain the main events of World War II in a concise paragraph.,8,200,1.829,109.3
+summarization,Summarize how the internet works in simple terms.,8,200,2.439,82.0
+summarization,Give a brief overview of the history of artificial intelligence.,8,200,1.922,104.1
+summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,8,91,1.109,82.0
+code,Write a Python function that implements binary search on a sorted list.,10,200,2.27,88.1
+code,"Write a Python class for a linked list with insert, delete, and search methods.",10,200,1.427,140.1
+code,Implement quicksort in Python with detailed comments.,10,200,1.681,119.0
+code,Write a Python function to find all prime numbers up to n using the Sieve of Era,10,200,2.149,93.1
+code,Create a Python decorator that caches function results with a TTL expiry.,10,200,2.215,90.3
+math,"Solve step by step: If 3x + 7 = 22, what is x?",10,187,1.612,116.0
+math,A train travels 120 km in 2 hours. It then travels 180 km in 3 hours. What is it,10,158,1.334,118.4
+math,Calculate the derivative of f(x) = x^3 * sin(x). Show your work.,10,200,1.473,135.7
+math,"If a rectangle has a perimeter of 30 and a width of 5, what is its area?",10,200,1.41,141.8
+math,Solve: The sum of three consecutive integers is 72. What are they?,10,200,1.882,106.2
+chat,What are the pros and cons of remote work? Give a balanced view.,10,200,2.018,99.1
+chat,Explain quantum computing to a 10-year-old.,10,200,3.169,63.1
+chat,What are some healthy meal prep ideas for a busy week?,10,200,1.879,106.4
+chat,Recommend 5 books for someone who loved Sapiens by Yuval Noah Harari.,10,200,3.101,64.5
+chat,What's the difference between machine learning and deep learning?,10,200,3.027,66.1
+summarization,Summarize the key ideas behind the theory of relativity in 5 bullet points.,10,200,2.41,83.0
+summarization,Explain the main events of World War II in a concise paragraph.,10,200,2.007,99.7
+summarization,Summarize how the internet works in simple terms.,10,200,2.841,70.4
+summarization,Give a brief overview of the history of artificial intelligence.,10,200,1.966,101.7
+summarization,Summarize the plot of Romeo and Juliet in 3 sentences.,10,91,1.129,80.6

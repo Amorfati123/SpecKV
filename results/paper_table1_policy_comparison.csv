@@ -1,0 +1,5 @@
+compression,Fixed-4,Fixed-best,Task-oracle,SpecKV-fast,SpecKV-accurate
+fp16,3.67,5.67,2.68,5.68,6.26
+int8,3.75,5.84,5.43,5.85,6.36
+nf4,3.78,5.92,4.09,5.93,6.55
+Overall,3.73,5.81,4.07,5.82,6.39
