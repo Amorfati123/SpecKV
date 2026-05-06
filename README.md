@@ -165,10 +165,10 @@ These are engineering tasks, not conceptual gaps. The core finding (compression 
 If you use SpecKV in your research, please cite:
 
 ```bibtex
-@article{speckv2026,
+@article{shukla2026speckv,
   title={SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection},
-  author={Anonymous},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  author={Shukla, Shikhar},
+  journal={arXiv preprint arXiv:2605.02888},
   year={2026}
 }
 ```
