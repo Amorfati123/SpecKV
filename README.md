@@ -4,10 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2605.02888"><img src="https://img.shields.io/badge/arXiv-2605.02888-b31b1b.svg" alt="arXiv"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
   <a href="https://github.com/amorfati123/speckv/stargazers"><img src="https://img.shields.io/github/stars/amorfati123/speckv?style=social" alt="GitHub stars"></a>
 </p>
+
 
 ---
 
